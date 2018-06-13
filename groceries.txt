@@ -2,7 +2,6 @@
 
 Grocery List
 
-eggs
 almond milk
 bread
 cereal
